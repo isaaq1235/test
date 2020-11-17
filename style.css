@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.menus {
+	background-color: #2b7099;
+}
+.menus i {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.menus .navbar-light .navbar-nav .nav-link {
+   
+   color: #ffffff;
+    font-weight: bold;
+}
+
+
+@media (max-width:425px) {
+	.workmap {
+
+		
+	}
+}
